@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  header {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .jumbotron {
+    background: url('../images/hero.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+  }
+  
